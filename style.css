@@ -1,0 +1,109 @@
+body{
+	background-color:burlywood;
+}	
+h1{
+	text-align:center;
+	color:black;
+	text-decoration:underline;
+	font-size:50px;
+}
+h3{
+	text-align:left;
+	color:red;
+	text-decoration:underline;
+	font-size:40px;
+}
+h2{
+	color:blue;
+	font-size:40px;
+	font-family:sans-serif;
+}
+p{
+	font-size:30px;
+	font-family:cursive;
+	color:dark brown;
+   
+}
+ul{
+	font-size:30px;
+	font-family:cursive;
+}
+.pic{
+	border-color:solid red;
+	border-radius:5px;
+	
+	
+}
+
+.listening-music{
+	height:150px;
+	width:150px;
+	margin-right:5px;
+	border:8px white solid;
+	float:right;
+	color:dark brown;
+}
+.story-writing{
+	height:150px;
+	width:150px;
+	margin-left:5px;
+	border:8px white solid;
+	float:right;
+}
+.movie{
+	height:150px;
+	width:150px;
+	margin-left:5px;
+	border:8px white solid;
+	float:right;
+}
+.outing{
+	height:150px;
+	width:150px;
+	margin-left:5px;
+	border:8px white solid;
+	float:right;
+}
+.family{
+	height:150px;
+	width:150px;
+	margin-left:5px;
+	border:8px white solid;
+	float:right;
+}
+.shopping{
+	height:150px;
+	width:150px;
+	margin-left:5px;
+	border:8px white solid;
+	float:right;
+}
+.shuttle{
+	height:150px;
+	width:150px;
+	margin-left:5px;
+	border:8px white solid;
+	float:right;
+}
+.cartoon{
+	height:150px;
+	width:150px;
+	margin-left:5px;
+	border:8px white solid;
+	float:right;
+}
+.socialmedia{
+	height:150px;
+	width:150px;
+	margin-left:5px;
+	border:8px white solid;
+	float:right;
+}
+p{
+	text-align:left;
+}
+
+
+
+	
+	
